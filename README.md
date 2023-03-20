@@ -1,3 +1,4 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<HEAD
 LinuxToWindows_File_tran
 
 本项目是完成Linux和Windows之间通过TCP文件传输
