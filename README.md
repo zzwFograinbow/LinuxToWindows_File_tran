@@ -1,4 +1,5 @@
-=LinuxToWindows_File_tran
+LinuxToWindows_File_tran
+---
 
 本项目是完成Linux和Windows之间通过TCP文件传输
 文件夹Linux_server是基于Linux的服务器
